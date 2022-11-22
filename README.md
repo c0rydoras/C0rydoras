@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C0rydoras
-- 👀 I’m interested in crashing stuff
-- 🌱 I’m currently learning stuff
-- 📫 How to reach me crash stuff
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning web developement
+- 📫 How to reach me? I don't know either.
 
 <!---
 C0rydoras/C0rydoras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
